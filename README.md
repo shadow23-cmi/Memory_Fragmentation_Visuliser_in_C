@@ -1,7 +1,8 @@
 # Memory_Fragmentation_Visuliser_in_C
 ## Author:
-  1. Madhumita Das
-  2. Suman Polley
+  1. Suman Polley
+  2. Madhumita Das
+     
 A simple code to visualise **Memory Fragmentation** (both internal and external) for the following Memory allocation algorithms: 
   1. **first fit**
   2. **best fit**
