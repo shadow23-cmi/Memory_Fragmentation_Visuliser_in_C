@@ -4,7 +4,8 @@ A simple code to visualise memory fragmentation (both internal and external) for
   2. best fit
   3. worst fit
   4. paging
-Compilation:
+
+## Compilation:
 ```c
   gcc -c lib/BST.c -o obj/BST.o
   gcc obj/BST.o src/first_fit.c -Ilib -o bin/first_fit
